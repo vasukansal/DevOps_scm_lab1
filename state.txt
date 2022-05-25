@@ -1,0 +1,7 @@
+state -- ff
+capital -- ty
+state -- yui
+capital -- hjk
+avg population - 622.5
+State with max area -- yui
+State with highest population density -- ff
